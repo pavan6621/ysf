@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023394063170",
+    "project_id": "ysf-app-bbf97",
+    "storage_bucket": "ysf-app-bbf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023394063170:android:c51298a1491b83966d1edb",
+        "android_client_info": {
+          "package_name": "com.digitele.ysf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [ 
+        {
+          "current_key": "AIzaSyDTLfjacoTrr10WZ849wffntifIJfQivkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023394063170:android:ab35cc77100589316d1edb",
+        "android_client_info": {
+          "package_name": "com.ysf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLfjacoTrr10WZ849wffntifIJfQivkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
